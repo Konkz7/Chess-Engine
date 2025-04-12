@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="complete-pack-0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/complete-pack-0.1b2" />
+      <root url="jar://$USER_HOME$/Desktop/complete-pack-0.1b2/lib/JChess-0.1b2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/complete-pack-0.1b2" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,450 @@
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Bot 2 (White): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 40
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Bot 2 (White): [10.0, 10.0, 1.0, 0.0, 1.0, 5.0, 10.0, 0.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 54
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Bot 2 (White): [1.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 36
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [10.0, 0.0, 5.0, 10.0, 5.0, 0.0, 10.0, 10.0]
+Bot 2 (White): [1.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 38
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 10.0, 5.0, 1.0, 5.0, 10.0, 1.0, 5.0]
+Bot 2 (White): [1.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 0
+White: 3
+Turns 25
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 10.0, 5.0, 10.0, 1.0, 5.0, 5.0, 5.0]
+Bot 2 (White): [1.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 0
+White: 4
+Turns 29
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [5.0, 10.0, 5.0, 5.0, 1.0, 10.0, 1.0, 5.0]
+Bot 2 (White): [1.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 0
+White: 4
+Turns 62
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [1.0, 0.0, 10.0, 1.0, 10.0, 5.0, 0.0, 1.0]
+Bot 2 (White): [1.0, 0.0, 10.0, 10.0, 0.0, 10.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 47
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [1.0, 0.0, 10.0, 1.0, 10.0, 5.0, 0.0, 1.0]
+Bot 2 (White): [1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 10.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 26
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 1.0, 10.0, 5.0, 5.0, 5.0, 1.0, 10.0]
+Bot 2 (White): [1.0, 1.0, 1.0, 0.0, 1.0, 0.0, 10.0, 5.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 43
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [0.0, 1.0, 10.0, 5.0, 5.0, 5.0, 1.0, 10.0]
+Bot 2 (White): [1.0, 1.0, 1.0, 0.0, 0.0, 5.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 32
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 1.0, 10.0, 5.0, 5.0, 5.0, 1.0, 10.0]
+Bot 2 (White): [5.0, 0.0, 1.0, 0.0, 10.0, 10.0, 0.0, 5.0]
+Consecutive Wins:
+Black: 2
+White: 0
+Turns 54
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 1.0, 10.0, 5.0, 5.0, 5.0, 1.0, 10.0]
+Bot 2 (White): [0.0, 1.0, 10.0, 5.0, 0.0, 10.0, 5.0, 0.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 61
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 10.0, 0.0, 1.0, 0.0, 1.0, 5.0, 1.0]
+Bot 2 (White): [0.0, 1.0, 10.0, 5.0, 0.0, 10.0, 5.0, 0.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 38
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [5.0, 0.0, 5.0, 10.0, 1.0, 5.0, 5.0, 1.0]
+Bot 2 (White): [0.0, 1.0, 10.0, 5.0, 0.0, 10.0, 5.0, 0.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 76
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 0.0, 10.0, 10.0, 10.0, 1.0, 10.0, 5.0]
+Bot 2 (White): [0.0, 1.0, 10.0, 5.0, 0.0, 10.0, 5.0, 0.0]
+Consecutive Wins:
+Black: 0
+White: 3
+Turns 59
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 1.0, 5.0, 0.0, 5.0, 5.0]
+Bot 2 (White): [0.0, 1.0, 10.0, 5.0, 0.0, 10.0, 5.0, 0.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 35
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 1.0, 5.0, 0.0, 5.0, 5.0]
+Bot 2 (White): [10.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 2
+White: 0
+Turns 35
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 1.0, 5.0, 0.0, 5.0, 5.0]
+Bot 2 (White): [1.0, 1.0, 10.0, 5.0, 5.0, 5.0, 5.0, 1.0]
+Consecutive Wins:
+Black: 2
+White: 0
+Turns 44
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 1.0, 5.0, 0.0, 5.0, 5.0]
+Bot 2 (White): [5.0, 0.0, 5.0, 1.0, 1.0, 5.0, 10.0, 1.0]
+Consecutive Wins:
+Black: 3
+White: 0
+Turns 54
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 1.0, 5.0, 0.0, 5.0, 5.0]
+Bot 2 (White): [1.0, 5.0, 5.0, 5.0, 10.0, 5.0, 5.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 51
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 5.0, 1.0, 1.0, 10.0, 10.0, 0.0, 10.0]
+Bot 2 (White): [1.0, 5.0, 5.0, 5.0, 10.0, 5.0, 5.0, 5.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 28
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 5.0, 1.0, 1.0, 10.0, 10.0, 0.0, 10.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 22
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 1.0, 0.0, 0.0, 1.0, 10.0, 1.0, 0.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 35
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [1.0, 0.0, 1.0, 1.0, 10.0, 5.0, 10.0, 1.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 3
+Turns 45
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 10.0, 5.0, 1.0, 0.0, 1.0, 0.0, 0.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 4
+Turns 33
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [1.0, 0.0, 10.0, 10.0, 1.0, 0.0, 5.0, 1.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 5
+Turns 17
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [10.0, 5.0, 1.0, 1.0, 1.0, 0.0, 1.0, 5.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 6
+Turns 28
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 10.0, 0.0, 10.0, 1.0, 0.0, 10.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 6
+Turns 40
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 10.0, 0.0, 5.0, 5.0, 1.0, 10.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 7
+Turns 12
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [1.0, 5.0, 5.0, 5.0, 1.0, 5.0, 5.0, 5.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 8
+Turns 29
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 1.0, 1.0, 10.0, 10.0, 10.0, 10.0, 5.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 0
+White: 9
+Turns 18
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [0.0, 10.0, 1.0, 0.0, 0.0, 1.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 14
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [5.0, 0.0, 5.0, 1.0, 0.0, 5.0, 1.0, 0.0]
+Consecutive Wins:
+Black: 2
+White: 0
+Turns 20
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [10.0, 5.0, 1.0, 10.0, 1.0, 0.0, 10.0, 5.0]
+Consecutive Wins:
+Black: 2
+White: 0
+Turns 42
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [0.0, 5.0, 10.0, 0.0, 10.0, 1.0, 10.0, 10.0]
+Consecutive Wins:
+Black: 3
+White: 0
+Turns 21
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [1.0, 1.0, 10.0, 0.0, 10.0, 1.0, 1.0, 10.0]
+Consecutive Wins:
+Black: 4
+White: 0
+Turns 24
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [1.0, 5.0, 0.0, 0.0, 0.0, 0.0, 0.0, 5.0]
+Consecutive Wins:
+Black: 4
+White: 0
+Turns 34
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [1.0, 5.0, 0.0, 10.0, 0.0, 10.0, 0.0, 10.0]
+Consecutive Wins:
+Black: 5
+White: 0
+Turns 46
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [0.0, 0.0, 0.0, 0.0, 1.0, 10.0, 0.0, 1.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 24
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 0.0, 5.0, 10.0, 10.0, 0.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 50
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [0.0, 10.0, 10.0, 0.0, 1.0, 1.0, 5.0, 0.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 1
+Turns 32
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 1.0, 10.0, 0.0, 0.0, 1.0, 10.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 67
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [0.0, 10.0, 0.0, 5.0, 10.0, 10.0, 5.0, 5.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 30
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [5.0, 0.0, 0.0, 10.0, 10.0, 5.0, 5.0, 0.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 2
+Turns 66
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 1.0, 0.0, 5.0, 5.0, 0.0, 0.0, 5.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 3
+Turns 39
+---------------------------------------
+Winner: WHITE_WIN
+Mul values:
+Bot 1 (Black): [5.0, 0.0, 5.0, 1.0, 0.0, 10.0, 10.0, 10.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 0
+White: 4
+Turns 61
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 5.0, 0.0, 5.0, 10.0, 5.0, 0.0, 5.0]
+Bot 2 (White): [1.0, 1.0, 0.0, 5.0, 0.0, 0.0, 1.0, 5.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 39
+---------------------------------------
+Winner: DRAW
+Mul values:
+Bot 1 (Black): [0.0, 5.0, 0.0, 5.0, 10.0, 5.0, 0.0, 5.0]
+Bot 2 (White): [5.0, 10.0, 1.0, 1.0, 0.0, 10.0, 10.0, 0.0]
+Consecutive Wins:
+Black: 1
+White: 0
+Turns 28
+---------------------------------------
+Winner: BLACK_WIN
+Mul values:
+Bot 1 (Black): [0.0, 5.0, 0.0, 5.0, 10.0, 5.0, 0.0, 5.0]
+Bot 2 (White): [5.0, 5.0, 0.0, 0.0, 10.0, 1.0, 0.0, 1.0]
+Consecutive Wins:
+Black: 2
+White: 0
+Turns 16
+---------------------------------------
