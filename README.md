@@ -230,8 +230,13 @@ This project improved my understanding of:
 
 # Screenshots
 
-_Add screenshots of the GUI here._
+## Main Game Window
 
+![Chess GUI](screenshots/chess_ss.png)
+
+## Logging File Snippet
+
+![Log summary](screenshots/chess_ss2.png)
 ---
 
 # Author
